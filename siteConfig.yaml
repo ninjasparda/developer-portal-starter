@@ -8,6 +8,7 @@ oasDefinitions:
   petstore: ./openapi/petstore.yaml
   # add links to definitions in our API registry by using a fully qualified URL.
 stylesheets:
+  - ./test.css
   - https://fonts.googleapis.com/css?family=Roboto:300,400,600,700
   - https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&display=swap
 #ga:
